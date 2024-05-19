@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="SampleTest" skipped="0" tests="1" time="48.49" timestamp="2024-05-19 03:34:38"><testcase classname="SampleTest" name="Sample test"><failure message="&#10;Expected: a string containing &quot;Serenity BDD&quot;&#10;     but: was &quot;&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Serenity BDD"
+     but: was ""</failure><system-err>
+Expected: a string containing "Serenity BDD"
+     but: was ""
+SampleTest.sampleTest(SampleTest.java:34)
+</system-err></testcase></testsuite>
